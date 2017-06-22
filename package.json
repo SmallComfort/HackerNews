@@ -9,6 +9,7 @@
     "eslint-plugin-react": "^7.1.0",
     "jest-expo": "~1.0.1",
     "react-native-scripts": "0.0.31",
+    "react-vue-native-scripts": "0.0.2-rc1",
     "react-test-renderer": "16.0.0-alpha.6"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
@@ -28,6 +29,8 @@
     "react": "16.0.0-alpha.6",
     "react-native": "^0.44.0",
     "react-navigation": "^1.0.0-beta.11",
-    "vuex": "^2.3.1"
+    "vuex": "^2.3.1",
+    "react-vue": "0.0.3-rc1",
+    "react-vue-helper": "0.0.3-rc1"
   }
 }

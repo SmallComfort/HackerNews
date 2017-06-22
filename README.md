@@ -2,10 +2,12 @@
 
 A mobile app for Hacker News, powered by Vue and React Native
 
+<img src="https://github.com/SmallComfort/assets/blob/master/demo.gif?raw=true" width="350"/>
+
 ## Preview
 Use [Expo app](https://expo.io) to scan the QR code below.
 
-![QR Code](./src/assets/qr_code.png)
+<img src="https://github.com/SmallComfort/assets/blob/master/qr_code.png?raw=true" width="350"/>
 
 QR Code content: [https://expo.io/@chuangchuang/hackernews](https://expo.io/@chuangchuang/hackernews)
 
